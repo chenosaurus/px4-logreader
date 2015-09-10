@@ -27,6 +27,6 @@
   "license": "MIT",
   "dependencies": {
     "minimist": "^0.1.0",
-    "ref": "^1.1.0"
+    "node-int64": "^0.4.0"
   }
 }
